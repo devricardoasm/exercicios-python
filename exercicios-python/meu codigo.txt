@@ -1,3 +1,0 @@
-Olá, eu sou o Ricardo!
-Teste de versão 1.0
-Teste de versão na staging 2.0
